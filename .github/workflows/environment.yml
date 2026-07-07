@@ -1,0 +1,7 @@
+Credit-card-churn-prediction-model/
+├── .github/
+│   └── workflows/
+│       └── python-package-conda.yml
+├── environment.yml
+├── README.md
+└── (your other files)
